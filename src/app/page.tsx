@@ -15,7 +15,7 @@ export default function Home() {
           galizaragozadev</Link>, clica en mi nombre si quieres apoyarme o saber más de mis proyectos</h2>
         <div className="text-xl max-w-[60%]">
           <p className="text-red-600">
-            La página tiene un fin informativo, no se recoge ninguno de los datos del formulario!
+            La página tiene un fin informativo, no se recopila ninguno de los datos del formulario!
           </p>
           <p>Introduce los campos del formulario que consideres oportuno (la mayoría son opcionales, contra más campos rellenes mayor precisión) 
             para obtener una aproximación con un margen entre el 90-99% de precisión
